@@ -1,6 +1,7 @@
-*.i
-*.ii
-*.gpu
-*.ptx
-*.cubin
-*.fatbin
+build/
+*.o
+*.obj
+*.ncu-rep
+*.nsys-rep
+.vscode/
+.idea/
