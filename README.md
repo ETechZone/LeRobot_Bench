@@ -1,3 +1,6 @@
+# LeRobot_Bench
+Empirical benchmarking suite for Vision-Language-Action (VLA) models on the LeRobot SO-ARM 101 platform—evaluating vision backbones (SigLIP vs. CLIP in SmolVLA), spatial patching tradeoffs, and edge inference latency.
+
 # cuda-llm-kernel-bench
 
 High-performance **CUDA C++** kernel suite and host-side C++17 benchmarking harness targeting core **Large Language Model (LLM)** training and inference primitives.
